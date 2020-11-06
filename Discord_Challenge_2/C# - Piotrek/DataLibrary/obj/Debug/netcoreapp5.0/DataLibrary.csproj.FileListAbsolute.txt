@@ -1,0 +1,9 @@
+D:\Programowanie\Challanges\Challanges\DataLibrary\bin\Debug\netcoreapp5.0\DataLibrary.deps.json
+D:\Programowanie\Challanges\Challanges\DataLibrary\bin\Debug\netcoreapp5.0\DataLibrary.dll
+D:\Programowanie\Challanges\Challanges\DataLibrary\bin\Debug\netcoreapp5.0\DataLibrary.pdb
+D:\Programowanie\Challanges\Challanges\DataLibrary\obj\Debug\netcoreapp5.0\DataLibrary.csprojAssemblyReference.cache
+D:\Programowanie\Challanges\Challanges\DataLibrary\obj\Debug\netcoreapp5.0\DataLibrary.AssemblyInfoInputs.cache
+D:\Programowanie\Challanges\Challanges\DataLibrary\obj\Debug\netcoreapp5.0\DataLibrary.AssemblyInfo.cs
+D:\Programowanie\Challanges\Challanges\DataLibrary\obj\Debug\netcoreapp5.0\DataLibrary.csproj.CoreCompileInputs.cache
+D:\Programowanie\Challanges\Challanges\DataLibrary\obj\Debug\netcoreapp5.0\DataLibrary.dll
+D:\Programowanie\Challanges\Challanges\DataLibrary\obj\Debug\netcoreapp5.0\DataLibrary.pdb

@@ -1,0 +1,20 @@
+
+! PL LANGUAGE !
+
+# Nastoletni Programiści - Discord Challenge #1
+
+## Treść zadania:
+
+> Napisz skrypt, w dowolnym języku, który po wpisaniu polskiego imienia, sprawdzi czy wpisane imie jest żeńskie czy męskie
+> Funkcja musi uwzględnić także wyjątek, którym jest imię ' Kuba '
+> Jeśli wpisany wyraz będzie miał więcej niż 13, lub mniej niż 3 litery, funkcja ma zwrócić wiadomość, że nie jest to poprawne imię.
+
+! EN LANGUAGE !
+
+# Teen Programmers - Discord Challenge #1
+
+## The content of task:
+
+> Write script, which checks if entered Polish name is female or male.
+> Function must also take into account exception, which is male name 'Kuba'
+> If entered name have - more than 13, or less than 3 - letters, program shows message about that incorrect name has been entered.

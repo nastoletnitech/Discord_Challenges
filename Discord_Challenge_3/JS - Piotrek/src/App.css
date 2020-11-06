@@ -1,0 +1,50 @@
+.app {
+  text-align: center;
+}
+
+.app__header {
+  font-size: 1.5rem;
+  margin-top: 70px;
+  margin-bottom: 50px;
+}
+
+.app__container__settings {
+  margin-bottom: 70px;
+}
+
+.app__container__info {
+  margin-top: 20px;
+  font-size: 1.3rem;
+}
+
+.count input {
+  border: none;
+  outline: none;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: #09001f;
+  color: white;
+}
+
+.count input::placeholder {
+  color: #b79aff;
+  font-family: 'Commissioner', sans-serif;
+}
+
+.app__container__color {
+  font-size: 3rem;
+  margin-bottom: 70px;
+}
+
+.app__container__squares {
+  justify-content: center;
+  display: flex;
+}
+
+.square {
+  border: 1px white solid;
+  margin: 10px;
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+}

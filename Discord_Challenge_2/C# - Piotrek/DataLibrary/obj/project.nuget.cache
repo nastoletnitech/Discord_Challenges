@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vq3p4+FiRV78JEeXnFD2H4mmQPk/NAdPiygNfLW1xPZM4Wu6uDNdo72kecw4g1CpgwX8cKFsA/JMeiz2XT1sSg==",
+  "success": true,
+  "projectFilePath": "D:\\Programowanie\\Challanges\\Challanges\\DataLibrary\\DataLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peter\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
