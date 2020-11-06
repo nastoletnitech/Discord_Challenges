@@ -1,0 +1,42 @@
+ ! PL LANG ! EN CAN BE FOUND BELOW !
+ 
+Pan Kowalski ma problem  ze spamiętaniem, które tabletki, kiedy brać, ile brać... 
+Zapisuje sobie kartki, instrukcje ale nadal to nic nie daje. Ma bardzo słabą pamięć, nie do końca pamięta, jaki dzisiaj dzień.
+Marzy o programie, który po jednym kliknięciu  wyświetli mu jaki dzisiaj jest dzień i jakie tabletki musi wziąć. 
+
+Recepta pana Kowalskiego: 
+Hydrocodone, Simvastatin, Lisinopril, Besylate, Metformin, Omeprazole, Azithromycin. 
+
+W zależności od tego, który jest dzień tygodnia, pan Kowalski, musi wziąc odpowiedni lek. 
+-- Każdej literze w dniu tygodnia odpowiada numer w alfabecie. Po zsumowaniu tych wszystkich liczb i obliczeniu średniej arytmetycznej,  Pan Kowalski, musi wziąć Lek, którego pierwsza litera, przekonwertowana na numer w alfabecie, jest najbardziej zbliżona do obliczonej wcześniej średniej arytmetycznej. 
+
+Problemem jest także, w jakiej ilości musi wziąć te leki. 
+-- Jeśli dzień miesiąca jest liczbą, która po przekształceniu na pierwiastek drugiego stopnia, umożliwia wyciągnięcie z niego  liczby całkowitej, musi wziąć ilość tabletek, równą obliczonej liczbie całkowitej. 
+-- Zakładając, że dzień miesiąca = x, a (15 < x < 30 || √x / != liczba całkowita) , Jeśli x spełnia podany wcześniej warunek, pan Kowalski musi wziąć dwie tabletki. 
+-- Pan Kowalski ma jednak przerwy w braniu leków, w każdy dzień miesiąca podzielny przez 10. W takim przypadku zalecane mu jest pójście na spacer. 
+
+-- Przymusem jest także możliwość wybrania daty, żeby żona pana Kowalskiego, miała możliwość sprawdzenia poprawności programu. 
+-- Dodatkowo, program musi wykazać, który warunek został spełniony podczas obliczania ilości tabletek, oraz porównać numery w alfabecie średniej arytmetycznej dnia tygodnia, oraz pierwszej litery dnia tygodnia. 
+ 
+ 
+ 
+ !EN LANG!
+ 
+Mr. Kowalski has a problem with remembering which tablets, when to take, how many ...
+He writes down sheets of paper, instructions, but it still doesn't help. He has a very poor memory, does not quite remember what day it is today.
+He dreams of a program that, with one click, will show him what day is today and what pills he has to take.
+
+Mr. Kowalski's prescription:
+Hydrocodone, Simvastatin, Lisinopril, Besylate, Metformin, Omeprazole, Azithromycin.
+
+Depending on what day of the week it is, Mr. Kowalski must take the appropriate medication.
+- Each letter of the week has a number in the alphabet. After adding up all these numbers and calculating the arithmetic mean, Mr. Kowalski has to take the Lek whose first letter, converted to the number in the alphabet, is closest to the arithmetic mean calculated earlier.
+
+It is also a problem in what amount he has to take these drugs.
+- If the day of the month is a number that, after converting to the root of the second degree, makes it possible to take an integer from it, he must take the number of tablets equal to the calculated integer.
+- Assuming that the day of the month = x, a (15 <x <30 || √x /! = Integer), If x meets the condition stated above, Mr. Smith must take two tablets.
+- Mr. Kowalski, however, has breaks in taking medications, every day of the month is divisible by 10. In this case, he is recommended to go for a walk.
+
+- It is also compulsory to choose a date so that Mr. Kowalski's wife has the opportunity to verify the correctness of the program.
+- Additionally, the program must show which condition was met while calculating the number of tablets, and compare the numbers in the alphabet of the arithmetic mean of the day of the week and the first letter of the day of the week. 
+
